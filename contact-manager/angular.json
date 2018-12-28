@@ -20,7 +20,12 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "**/*",
+                "input": "/Users/duanegabel/Work/Lynda/Angular/angular-cli/contact-manager/node_modules/weather-underground-icons/dist/icons/black/png/32x32",
+                "output": "./weather-icons"
+              }
             ],
             "styles": [
               "src/styles.css"
