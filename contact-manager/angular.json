@@ -28,9 +28,12 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/Users/duanegabel/Work/Lynda/Angular/angular-cli/contact-manager/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/Users/duanegabel/Work/Lynda/Angular/angular-cli/contact-manager/node_modules/particles.js/particles.js"
+            ]
           },
           "configurations": {
             "production": {
